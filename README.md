@@ -3,3 +3,5 @@
 - make the bed
 - stretching
 - cold plunge
+- Do the laundry
+- Do the dishes
