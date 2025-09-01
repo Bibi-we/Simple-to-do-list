@@ -1,2 +1,5 @@
 # Simple-to-do-list
-my daily to do list to meet my daily goals
+wake up
+make the bed
+stretching
+cold plunge
